@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://wallpaperaccess.com/full/3764935.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+  background-position: center;
+  }
+.display-3 {
+    color: rgb(213, 211, 211); 
+    border: 2px solid black;
+}
+.quote-container {
+    position: fixed;
+    bottom: 50px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .quote-text {
+    font-size: 24px;
+    color: #cabcbc;
+  }
